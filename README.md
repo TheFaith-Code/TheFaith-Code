@@ -8,7 +8,7 @@ I'm passionate about building clean, scalable backend systems and APIs. I enjoy 
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, JavaScript
+- **Languages:** Python, Go (Golang), JavaScript, Typescript, Node.js
 - **Frameworks:** FastAPI, Django, Flask
 - **Databases:** SQLite, PostgreSQL
 - **Tools:** Git, Docker, REST APIs, VS Code
