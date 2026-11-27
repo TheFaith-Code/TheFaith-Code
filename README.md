@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faith
 
-**Aspiring Backend Engineer** • **Python Developer** • **Problem Solver**
+**Backend Engineer** • **Python Developer** • **Problem Solver**
 
 I'm passionate about building clean, scalable backend systems and APIs. I enjoy turning ideas into tools that work fast, reliable, and maintainable.
 
